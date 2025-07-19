@@ -1,0 +1,22 @@
+{
+  "name": "Telegram Auto Message Sender",
+  "short_name": "TelegramSender",
+  "description": "Professional Telegram Auto Message Sender - Send automated messages to multiple groups",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0088cc",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "lang": "en",
+  "scope": "/",
+  "prefer_related_applications": false
+}
